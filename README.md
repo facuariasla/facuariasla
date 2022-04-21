@@ -5,16 +5,12 @@ Im Arias Facundo
 
 🌱 Learning
 
-Some projects!
-WebApp Game "Rock, Paper o Scissors" (PvP online)
-WebApp Juego "Piedra, Papel o Tijeras" (PvP online)
-Link: https://des6-2.herokuapp.com
+## Some projects!
 
-Basic layout landing page using React (hooks). CSS grid, css flex.
-Link: https://62543e5b0e435b7f891a0ce1--stellar-profiterole-99e7c9.netlify.app
-
-A Landpage-Portfolio in Vanilla JS, HTML, CSS
-https://facuariasla.github.io/facuariasla-des4/
+1. Crypto-info: https://cryptodata001.netlify.app
+2. WebApp Game "Rock, Paper o Scissors" (PvP online): https://des6-2.herokuapp.com
+3. Basic layout landing page: https://62543e5b0e435b7f891a0ce1--stellar-profiterole-99e7c9.netlify.app
+4. Landpage-Portfolio in Vanilla JS, HTML, CSS: https://facuariasla.github.io/facuariasla-des4/
 
 Code of the each one, and others in my repository
 <!--
