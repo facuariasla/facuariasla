@@ -2,6 +2,13 @@
 
 Im Arias Facundo
 
+▪JavaScript
+▪HTML
+▪CSS
+▪ReactJS
+▪Firebase
+▪ExpressJS
+▪ ...
 
 🌱 Learning
 
