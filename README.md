@@ -15,9 +15,9 @@ Im Arias Facundo
 ### Some projects!
 
 1. Crypto-info: https://cryptodata001.netlify.app
-1.1 Repository: https://github.com/facuariasla/crypto-info
+▪▪▪ repository https://github.com/facuariasla/crypto-info
 2. WebApp Game "Rock, Paper o Scissors" (PvP online): https://des6-2.herokuapp.com
-2.2 Repository: https://github.com/facuariasla/des6-2
+▪▪▪ repository https://github.com/facuariasla/des6-2
 3. Basic layout landing page: https://62543e5b0e435b7f891a0ce1--stellar-profiterole-99e7c9.netlify.app
 4. Landpage-Portfolio in Vanilla JS, HTML, CSS: https://facuariasla.github.io/facuariasla-des4/
 
