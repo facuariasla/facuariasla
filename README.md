@@ -12,7 +12,7 @@ Im Arias Facundo
 
 🌱 Learning
 
-## Some projects!
+### Some projects!
 
 1. Crypto-info: https://cryptodata001.netlify.app
 2. WebApp Game "Rock, Paper o Scissors" (PvP online): https://des6-2.herokuapp.com
