@@ -2,7 +2,8 @@
 
 Im Arias Facundo
 
-▪JavaScript
+▪JavaScript 
+▪TypeScript
 ▪HTML
 ▪CSS
 ▪ReactJS
