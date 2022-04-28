@@ -16,7 +16,7 @@
 🌱 continually learning
 
 
-### Some projects!
+### Some projects
 
 1. Crypto-info: https://cryptodata001.netlify.app
 ▪▪▪ repository https://github.com/facuariasla/crypto-info
