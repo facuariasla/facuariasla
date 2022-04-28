@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Facundo Arias
+#### I'm Facundo 
 ##### Frontend developer
 ##### Backend enthusiast
 
