@@ -13,7 +13,8 @@
 - ExpressJS
 - ...
 
-🌱 Learning
+🌱 continually learning
+
 
 ### Some projects!
 
