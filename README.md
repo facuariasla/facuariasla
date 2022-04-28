@@ -2,14 +2,14 @@
 
 Im Arias Facundo
 
-▪JavaScript 
-▪TypeScript
-▪HTML
-▪CSS
-▪ReactJS
-▪Firebase
-▪ExpressJS
-▪ ...
+-JavaScript 
+-TypeScript 
+-ReactJS
+-HTML
+-CSS (Sass, ChakraUI)
+-Firebase
+-ExpressJS
+- ...
 
 🌱 Learning
 
