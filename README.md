@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-####Facundo Arias
-#####Frontend developer
-#####Backend enthusiast
+#### Facundo Arias
+##### Frontend developer
+##### Backend enthusiast
 
 - JavaScript 
 - TypeScript 
