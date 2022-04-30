@@ -18,6 +18,7 @@
 
 ### Some projects
 
+0. My portfolio https://facuariasla.netlify.app/#home
 1. Crypto-info: https://cryptodata001.netlify.app
 ▪▪▪ repository https://github.com/facuariasla/crypto-info
 2. YuGiOh cards https://yugiohcards00.netlify.app in development...
