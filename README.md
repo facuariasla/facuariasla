@@ -19,7 +19,8 @@
 ### Some projects
 
 0. My portfolio https://facuariasla.netlify.app
-1. Crypto-info: https://cryptodata001.netlify.app
+1. Real-Estate (properties visualization) https://realestate-properties.vercel.app/ 
+2. Crypto-info: https://cryptodata001.netlify.app
 ▪▪▪ repository https://github.com/facuariasla/crypto-info
 2. YuGiOh cards https://yugiohcards00.netlify.app in development...
 3. WebApp Game "Rock, Paper o Scissors" (PvP online) - Typescript-JavaScript, HTML, CSS, Firebase, ExpresJs: https://des6-2.herokuapp.com
