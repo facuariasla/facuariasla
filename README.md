@@ -18,7 +18,7 @@
 
 ### Some projects
 
-0. My portfolio https://facuariasla.netlify.app
+0. My portfolio https://facuariasla.vercel.app/
 1. Real-Estate (properties visualization) https://realestate-properties.vercel.app/ 
 2. Crypto-info: https://cryptodata001.netlify.app
 ▪▪▪ repository https://github.com/facuariasla/crypto-info
