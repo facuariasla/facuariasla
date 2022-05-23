@@ -25,6 +25,7 @@ Backend:
 ### Some projects
 
 * My portfolio https://facuariasla.vercel.app/
+* Who's that pokemon? https://pokemon-who.vercel.app/
 * Real-Estate (properties visualization) https://realestate-properties.vercel.app/ 
 * Crypto-info: https://cryptodata001.netlify.app
 ▪▪▪ repository https://github.com/facuariasla/crypto-info
