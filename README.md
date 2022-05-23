@@ -4,6 +4,7 @@
 ##### Frontend developer
 ##### Backend enthusiast
 
+
 Frontend:
 * JavaScript 
 * TypeScript 
