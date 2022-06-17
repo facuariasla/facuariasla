@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Facundo
-##### Frontend Developer with knowdledge in creation of API's and simple databases in the Backend side
+##### Frontend Developer with ReactJS, knowledge in the creation of APIs and simple databases on the Backend side, (and some knowdledge in Geology Sciences (👀)) 
 
 ## Frontend:
 * JavaScript 
