@@ -1,22 +1,19 @@
-## Hi there 👋
-### I'm Facundo
+# Hi there 👋, I'm Facundo
+##### I'm a Frontend Developer with knowdledge in creation of API's and simple databases in the Backend side
 
-##### Frontend developer
-##### Backend enthusiast
-
-
-Frontend:
+## Frontend:
 * JavaScript 
 * TypeScript 
 * ReactJS
 * HTML
-* CSS (Sass, ChakraUI, Styled-Components)
+* CSS (ChakraUI, Sass, Styled-Components, Bootstrap)
 
-Backend:
+## Backend 
 * NodeJS
 * ExpressJS
+* PostgreSQL & Sequalize
 * Firebase
-* Currently learning PostgreSQL & Sequalize
+
 
 
 🌱 Continually learning
