@@ -22,6 +22,7 @@
 ### Some projects
 
 * My portfolio https://facuariasla.vercel.app/
+* Lost Pets / Mascotas Perdidas https://mascotasperdidas-iota.vercel.app/
 * Who's that pokemon? https://pokemon-who.vercel.app/
 * Real-Estate (properties visualization) https://realestate-properties.vercel.app/ 
 * Crypto-info: https://cryptodata001.netlify.app
