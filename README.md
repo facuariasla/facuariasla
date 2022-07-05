@@ -36,10 +36,10 @@
 
 Code of the each one, and others in my repository
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=facuariasla&theme=radical)
 
 <!--
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=facuariasla&theme=radical)
 
 
 **facuariasla/facuariasla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
