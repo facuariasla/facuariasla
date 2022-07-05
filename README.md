@@ -36,7 +36,7 @@
 
 Code of the each one, and others in my repository
 
-![GitHub Stats](https://github-readme-stats.vercel.api?username=facuariasla&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=facuariasla&theme=radical)
 
 <!--
 
