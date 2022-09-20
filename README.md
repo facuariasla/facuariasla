@@ -1,12 +1,12 @@
 # HI 🌝
-#### Frontend Developer with ReactJS, knowledge in the creation of APIs and simple databases on the Backend side, (and some knowdledge in Geology Sciences (👀)) 
+#### I'm Facundo Arias, a ReactJS Frontend Developer, w knowledge in the creation of APIs and simple databases on the Backend side, (and some knowdledge in Geology Sciences (👀)) 
 
 ## Frontend:
 * JavaScript 
 * TypeScript 
 * ReactJS
 * HTML
-* CSS (ChakraUI, Sass, Styled-Components, Bootstrap)
+* CSS (ChakraUI, Sass, Styled-Components, Bootstrap...)
 
 ## Backend 
 * NodeJS
