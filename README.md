@@ -21,19 +21,12 @@
 
 ### Some projects
 
-* My portfolio https://facuariasla.vercel.app/
-* [https://pawer.org](Lost Pets/Mascotas Perdidas) 
+* [My portfolio](https://facuariasla.vercel.app)
 * [Mascotas perdidas](https://pawer.org)
-* Who's that pokemon? https://pokemon-who.vercel.app/
-* Real-Estate (properties visualization) https://realestate-properties.vercel.app/ 
-* Crypto-info: https://cryptodata001.netlify.app
-▪▪▪ repository https://github.com/facuariasla/crypto-info
-* YuGiOh cards https://yugiohcards00.netlify.app in development...
-* WebApp Game "Rock, Paper o Scissors" (PvP online) - Typescript-JavaScript, HTML, CSS, Firebase, ExpresJs: https://des6-2.herokuapp.com
-▪▪▪ repository https://github.com/facuariasla/des6-2
-* Basic layout landing page: https://62543e5b0e435b7f891a0ce1--stellar-profiterole-99e7c9.netlify.app
-* Landpage-Portfolio in Vanilla JS, HTML, CSS: https://facuariasla.github.io/facuariasla-des4/
-
+* [Who's that pokemon?](https://pokemon-who.vercel.app/)
+* [Real-Estate](https://realestate-properties.vercel.app/)
+* [crypto-info](https://cryptodata001.netlify.app) - [Repository](https://github.com/facuariasla/crypto-info)
+* (...)
 
 Code of the each one, and others in my repository
 
