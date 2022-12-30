@@ -22,8 +22,8 @@
 ### Some projects
 
 * My portfolio https://facuariasla.vercel.app/
-* [https://pawer.org](Lost Pets / Mascotas Perdidas) 
-* [Lost Pets/Mascotas Perdidas](https://pawer.org)
+* [https://pawer.org](Lost Pets/Mascotas Perdidas) 
+* [Mascotas perdidas](https://pawer.org)
 * Who's that pokemon? https://pokemon-who.vercel.app/
 * Real-Estate (properties visualization) https://realestate-properties.vercel.app/ 
 * Crypto-info: https://cryptodata001.netlify.app
