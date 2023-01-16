@@ -6,7 +6,7 @@
 * TypeScript 
 * ReactJS
 * HTML
-* CSS (ChakraUI, Sass, Styled-Components, Bootstrap...)
+* CSS (Tailwind, ChakraUI, Sass, Styled-Components, Bootstrap...)
 * Mobile (Flutter & React Native) enthusiast
 
 ## Backend 
