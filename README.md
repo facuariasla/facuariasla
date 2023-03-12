@@ -1,6 +1,7 @@
 # HI 🌝
-#### I'm Facundo Arias a Software Developer from Argentina
+#### I'm Facundo Arias a Software Developer from Neuquén, Argentina
 
+## STACK
 ### Frontend:
 * JavaScript/TypeScript
 * React
