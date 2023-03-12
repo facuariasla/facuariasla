@@ -1,28 +1,25 @@
 # HI 🌝
-#### I'm Facundo Arias, a ReactJS Frontend Developer, w knowledge in the creation of APIs and simple databases on the Backend side, (and some knowdledge in Geology Sciences (👀)) 
+#### I'm Facundo Arias a Software Developer from Argentina
 
-## Frontend:
-* JavaScript 
-* TypeScript 
-* ReactJS
+### Frontend:
+* JavaScript/TypeScript
+* React
 * HTML
-* CSS (Tailwind, ChakraUI, Sass, Styled-Components, Bootstrap...)
+* CSS
 * Mobile (Flutter & React Native) enthusiast
 
-## Backend 
+### Backend 
 * NodeJS
 * ExpressJS
-* PostgreSQL & Sequalize
+* PostgreSQL & Sequelize
 * Firebase
-
 
 
 🌱 Continually learning
 
 
 ### Some projects
-
-* [My portfolio](https://facuariasla.vercel.app)
+* [My portfolio](https://facuariasl.vercel.app)
 * [Mascotas perdidas](https://pawer.org)
 * [Who's that pokemon?](https://pokemon-who.vercel.app/)
 * [Real-Estate](https://realestate-properties.vercel.app/)
