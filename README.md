@@ -3,14 +3,15 @@
 
 ### Frontend:
 * JavaScript/TypeScript
-* React
+* React/Next
 * HTML
 * CSS
-* Mobile (Flutter & React Native) enthusiast
+* Flutter/Dart
+* React Native enthusiast
 
 ### Backend 
-* NodeJS
-* ExpressJS
+* Node
+* Express
 * PostgreSQL & Sequelize
 * Firebase
 
