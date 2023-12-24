@@ -1,7 +1,6 @@
-# hello
 #### Facundo Arias
 ##### Software Developer
-##### Neuquén, Argentina
+##### Neuquén, Argentina 
 
 ### Frontend:
 * JavaScript/TypeScript
@@ -14,7 +13,8 @@
 ### Backend 
 * Node
 * Express
-* PostgreSQL & Sequelize
+* PostgreSQL
+* MongoDB
 * Firebase
 
 
