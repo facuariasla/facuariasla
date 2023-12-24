@@ -1,6 +1,5 @@
 ### Facundo Arias
-##### ▫️ Software Developer
-##### ▫️ Neuquén, Argentina 
+##### ▫️ Software Developer. Neuquén, Argentina 
 
 ### Frontend:
 * JavaScript/TypeScript
