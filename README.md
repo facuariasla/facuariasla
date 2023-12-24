@@ -1,7 +1,7 @@
 ### Facundo Arias
 ##### ▫️ Software Developer. Neuquén, Argentina 
 
-### Frontend:
+
 * JavaScript/TypeScript
 * React/Next
 * HTML
@@ -9,7 +9,7 @@
 * Flutter/Dart
 * React Native enthusiast
 
-### Backend 
+
 * Node
 * Express
 * PostgreSQL
