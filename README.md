@@ -2,20 +2,7 @@
 ##### ▫️ Software Developer. Neuquén, Argentina 
 
 
-* JavaScript/TypeScript
-* React/Next
-* HTML
-* CSS
-* Flutter/Dart
-* React Native enthusiast
-
-
-* Node
-* Express
-* PostgreSQL
-* MongoDB
-* Firebase
-
+* TypeScript & Dart
 
 🌱 Continually learning
 
