@@ -7,15 +7,7 @@
 🌱 Continually learning
 
 
-### Some projects
-* [My portfolio](https://facuariasl.vercel.app)
-* [Mascotas perdidas](https://pawer.org)
-* [Who's that pokemon?](https://pokemon-who.vercel.app/)
-* [Real-Estate](https://realestate-properties.vercel.app/)
-* [crypto-info](https://cryptodata001.netlify.app) - [Repository](https://github.com/facuariasla/crypto-info)
-* (...)
-
-Code of the each one, and others in my repository
+#### Some projects in my [my portfolio](https://facuariasl.vercel.app) or repos here
 
 
 <!--
