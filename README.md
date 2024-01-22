@@ -7,7 +7,7 @@
 🌱 Continually learning
 
 
-#### Some projects in my [my portfolio](https://facuariasl.vercel.app) or repos here
+#### Some projects in [my portfolio](https://facuariasl.vercel.app) or repos here
 
 
 <!--
